@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794191588842",
+    "project_id": "buyzell-66db8",
+    "storage_bucket": "buyzell-66db8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794191588842:android:407b8771487455f4231693",
+        "android_client_info": {
+          "package_name": "com.errorcodez.buyzell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArthWPKyQCT3jQn0p9P1BHwzQNomWPmug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
